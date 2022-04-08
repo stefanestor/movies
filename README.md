@@ -43,7 +43,7 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-Assignment tasks:
+## Assignment tasks:
 
 1. This app was built with create-react-app, which comes with embeded tools for compiling React and Sass code, so I didn't have to use custom tool.
 
