@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "GalanoGrotesqueBold";
+  src: local("GalanoGrotesque"),
+    url("../fonts/GalanoGrotesque/GalanoGrotesqueBold.otf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "GalanoGrotesqueExtraBold";
+  src: local("GalanoGrotesque"),
+    url("../fonts/GalanoGrotesque/GalanoGrotesqueExtraBold.otf")
+      format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: "NewzaldBold";
+  src: local("Newzald"),
+    url("../fonts/Newzald/TestNewzald-Bold.otf") format("truetype");
+  font-weight: bold;
+}

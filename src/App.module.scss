@@ -1,0 +1,12 @@
+.appContainer {
+  position: relative;
+  height: inherit;
+  display: flex;
+  background-color: var(--primary-color);
+  .detailsAndOverview {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 117rem;
+    z-index: 1;
+  }
+}

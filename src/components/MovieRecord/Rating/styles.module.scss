@@ -1,0 +1,14 @@
+.ratingContainer {
+  display: flex;
+  margin-top: 2.5rem;
+  .hearts {
+    margin-right: 1.4rem;
+    img {
+      margin-right: 0.4rem;
+    }
+  }
+  .rating {
+    font-family: "GalanoGrotesqueBold";
+    font-size: 1.4rem;
+  }
+}

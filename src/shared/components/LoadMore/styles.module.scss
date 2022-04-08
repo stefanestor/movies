@@ -1,0 +1,35 @@
+.loadMore {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: absolute;
+  bottom: 2rem;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  width: 19.5rem;
+  height: 5.7rem;
+  border: 2px solid rgba(255, 255, 255, 0.2);
+  border-radius: 28px;
+  color: var(--text-color-1);
+  cursor: pointer;
+  z-index: 2;
+  img {
+    width: 2.8rem;
+    height: 2.8rem;
+  }
+  span {
+    display: flex;
+    img {
+      margin-left: 1.3rem;
+      margin-right: 3rem;
+    }
+    span {
+      font-size: 1.6rem;
+      font-family: "GalanoGrotesqueBold";
+      line-height: 1.9;
+      justify-content: center;
+    }
+  }
+}

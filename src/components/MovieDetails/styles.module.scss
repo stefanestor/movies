@@ -1,0 +1,41 @@
+.movieDetails {
+  height: 71.8rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: var(--text-color-1);
+  .companyLogo {
+    position: absolute;
+    top: 4.5rem;
+  }
+  h1 {
+    font-family: "GalanoGrotesqueExtraBold";
+    font-size: 9rem;
+  }
+  p {
+    margin-top: 3rem;
+    max-width: 57rem;
+    font-family: "NewzaldBold";
+    font-size: 1.8rem;
+    line-height: 2.4rem;
+  }
+  a {
+    display: flex;
+    justify-content: center;
+    margin-top: 4rem;
+    height: 5.7rem;
+    width: 25.9rem;
+    background-color: var(--third-color);
+    border-radius: 28px;
+    text-decoration: none;
+    color: var(--text-color-1);
+    font-family: "GalanoGrotesqueBold";
+    span {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      margin-right: 2rem;
+      font-size: 1.6rem;
+    }
+  }
+}
