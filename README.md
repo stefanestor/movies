@@ -52,3 +52,5 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 3. I would consider to make MovieDetails component (cover image with info) to be sticky, so it can be visible when user scrolls down.
 
 4. I would be nice to make test cases for clicking on MovieRecord, and checking the existance of movie details. Also, loadMore functionality should be tested, if new 10 movie records apear.
+
+FA1
